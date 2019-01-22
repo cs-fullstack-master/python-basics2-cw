@@ -2,7 +2,7 @@
 Start with a main function and make each problem a function. Call those functions from your main function.
 
 ### Problem 1:
-Create a random number. Print the guessed number.
+Create a random number. Print the number.
 
 ```
 Hint:
