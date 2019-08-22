@@ -1,4 +1,4 @@
-# python-basics2-cw
+# Python Basics: Math and String Formatting
 
 ### Problem 1:
 Write some Python code that has three variables called ```greeting```, ```my_name```, and ```my_age```. Intialize each of the 3 variables with an appropriate value, then rint out the example below using the 3 variables and two different approaches for formatting Strings. 
